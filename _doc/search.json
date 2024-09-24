@@ -76,6 +76,30 @@
     ]
   },
   {
+    "objectID": "document.html#estándar-de-certificación",
+    "href": "document.html#estándar-de-certificación",
+    "title": "Documentación",
+    "section": "Estándar de certificación",
+    "text": "Estándar de certificación\nCorresponde al procedimiento de certificación con las rubricas y estándar que se evalúan. Utilizando formas pre-diseñadas por MSC, los auditores de MSC deben calificar cada uno de los principios en bases al procedimiento indicado en estos estándar. Note que existen diferentes versiones, las que han surgido a medida se adecua el programa MSC.\n\n\nEstandar de Certificación V3.1\nEstandar de Certificación V3.0\nEstandar de Certificación V2.01",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Documentos"
+    ]
+  },
+  {
+    "objectID": "document.html#las-recetas",
+    "href": "document.html#las-recetas",
+    "title": "Documentación",
+    "section": "Las recetas",
+    "text": "Las recetas\nEl estándar MSC es complejo y requiere directrices al momento de asignar un puntaje durante la evaluación. Estas guías son los pasos frente a los diferentes procedimientos.\n\n\nGuia para la certificación - V3.1\nGuia para la certificación - V3.0\nGuia para la certificación - V2.3\nAsignación de herramientas V1.2\nAsignación de herramientas V1.1\nDisputas y resoluciones\nPrograma de transición V2.0\nHerramienta de rastreo y asignación de hitos",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Documentos"
+    ]
+  },
+  {
     "objectID": "reference.html",
     "href": "reference.html",
     "title": "**MAG 620**",
@@ -344,29 +368,5 @@
     "title": "Habits",
     "section": "Going to sleep",
     "text": "Going to sleep\n\nGet in bed\nCount sheep"
-  },
-  {
-    "objectID": "document.html#estándar-de-certificación",
-    "href": "document.html#estándar-de-certificación",
-    "title": "Documentación",
-    "section": "Estándar de certificación",
-    "text": "Estándar de certificación\nCorresponde al procedimiento de certificación con las rubricas y estándares que se evalúan. Utilizando formas pre-diseñadas por MSC, los auditores de MSC deben calificar cada uno de los principios en bases al procedimiento indicado en estos estándar. Note que existen diferentes versiones, las que han surgido a medida se adecua el programa MSC.\n\n\nEstandar de Certificación V3.1\nEstandar de Certificación V3.0\nEstandar de Certificación V2.01",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Documentos"
-    ]
-  },
-  {
-    "objectID": "document.html#las-recetas",
-    "href": "document.html#las-recetas",
-    "title": "Documentación",
-    "section": "Las recetas",
-    "text": "Las recetas\nEl estándar MSC es complejo y requiere aclaraciones al momento de asignar un puntaje durante la evaluación. Estas guías son los pasos frente a los diferentes procedimientos.\n\n\nGuia para la certificación - V3.1\nGuia para la certificación - V3.0\nGuia para la certificación - V2.3\nAsignación de puntajes V1.2\nAsignación de puntajes V1.1\nDisputas y resoluciones\nPrograma de transición V2.0\nHerramienta de rastreo y asignación de hitos",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Documentos"
-    ]
   }
 ]
