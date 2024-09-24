@@ -1,0 +1,27 @@
+---
+title: "Certificación en Pesquerías"
+slide-format: revealjs
+---
+
+## Alcanzando el estandar
+
+Esta primera presentación aborda el marco conceptual y de implementación del proceso de certificación en
+pesquerías [MSC](https://www.msc.org/standards-and-certification/fisheries-standard) (Marine Stewardship
+Council). El MSC es una organización internacional sin ánimo de lucro que promueve la pesca sostenible a
+través de su programa de certificación.
+
+El proceso de certificación del MSC se basa en estándares rigurosos que evalúan la sostenibilidad ambiental,
+la gestión efectiva y la trazabilidad de las pesquerías. La implementación de estos estándares garantiza que
+los productos pesqueros certificados por el MSC provienen de fuentes sostenibles y bien gestionadas,
+contribuyendo así a la conservación de los recursos marinos.
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="ppt1/" title="MSC Guia" style="height:420px;width:750px;border:none;"></iframe>
+```
+
+</div>
+
+Si prefieres ver la presentación en un navegador independiente, puedes hacerlo presionando este
+[link](ppt1/){target="_blank"}.
