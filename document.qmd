@@ -1,12 +1,27 @@
 ---
-title: "Documentación"
+title: "Certificación en pesquerías"
 ---
 
+## Estándar MSC
+
+El Estándar [MSC](https://www.msc.org/for-business/fisheries){target="_blank"} es una **herramienta de evaluación** comparativa accesible para todas las pesquerías y se puede utilizar sin requerir que la pesquería obtenga la certificación Marine Stewardship Council. El uso del Estándar para medir el progreso de Proyectos de Mejora de Pesquerías (FIP, sigla en Inglés) permite a las empresas de la cadena de suministro tomar decisiones mejor informadas para participar o abastecerse de estos proyectos. Por lo tanto, es importante que los interesados, en este caso los alumnos, comprendan cómo MSC define una pesquería, sus requisitos para la certificación y su metodología de puntuación.
+
+Este curso busca proporcionar una descripción y alcance sobre:
+
+-   el propósito del Estándar de Pesquerías MSC,
+-   las Unidad de Evaluación (UoA) y Unidad de Certificación (UoC) para la definición de pesquerías,
+-   los tres (3) Principios del Estándar de Pesquerías MSC,
+-   los indicadores de comportamiento (IC) evaluados bajo el Estándar de Pesquerías MSC,
+-   la evaluación a nivel de principios e IC, y
+-   la implicancia de la pre-evaluación MSC.
+
+
+## Información de soporte
 Acá encontraras la documentación básica para implementar el estándar MSC. Estos documentos deben considerarse
 como referencia y no constituyen material obligatorio, aunque, serán de soporte para el *ejercicio práctico*
 de este módulo.
 
-## Documentos generales del programa
+### Documentos generales
 Una base sobre el alcance del estándar MSC. Desde el año 2018, el estándar MSC ha sido actualizado en tres oportunidades, sumando importantes complejidades al proceso de revisión y auditorias.
 
 ::: info-box-general
@@ -22,7 +37,7 @@ Una base sobre el alcance del estándar MSC. Desde el año 2018, el estándar MS
     MSC](https://www.msc.org/docs/default-source/default-document-library/for-business/program-documents/chain-of-custody-supporting-documents/msc-msci-vocabulary.pdf?Status=Master&sfvrsn=c4ea6474_65){target="_blank"}
 :::
 
-## Estándar de certificación
+### Estándar de certificación
 Corresponde al procedimiento de certificación con las rubricas y estándar que se evalúan. Utilizando formas pre-diseñadas por MSC, los auditores de MSC deben calificar cada uno de los principios en bases al procedimiento indicado en estos estándar. Note que existen diferentes versiones, las que han surgido a medida se adecua el programa MSC.
 
 ::: info-box-important
@@ -32,7 +47,7 @@ Corresponde al procedimiento de certificación con las rubricas y estándar que 
 :::
 
 
-## Las recetas
+### Las recetas
 El estándar MSC es complejo y requiere directrices al momento de asignar un puntaje durante la evaluación. Estas guías son los pasos frente a los diferentes procedimientos. 
 
 ::: info-box-guia

@@ -7,23 +7,27 @@ contiene información sobre el módulo **Certificación de pesquerías y acuicul
 [Juan-Carlos Quiroz](https://www.facilevisual.com/jcquiroz) en calidad de profesor invitado. Todos los
 materiales del curso se publicarán en este sitio.
 
-## Estándar MSC
+<br>
 
-El Estándar MSC es una **herramienta de evaluación** comparativa accesible para todas las pesquerías y se
-puede utilizar sin requerir que la pesquería obtenga la certificación MSC. El uso del Estándar para medir el
-progreso de Proyectos de Mejora de Pesquerías (FIP, sigla en Inglés) permite a las empresas de la cadena de
-suministro tomar decisiones mejor informadas para participar o abastecerse de estos proyectos. Por lo tanto,
-es importante que los interesados, en este caso los alumnos, comprendan cómo MSC define una pesquería, sus
-requisitos para la certificación y su metodología de puntuación.
+## Temario
 
-Este curso busca proporcionar una descripción y alcance sobre:
+::: {.callout-note appearance="simple"}
+-   El estándar de certificación y la sostenibilidad en pesquerías y acuicultura,
 
--   el propósito del Estándar de Pesquerías MSC,
--   las Unidad de Evaluación (UoA) y Unidad de Certificación (UoC) para la definición de pesquerías,
--   los tres (3) Principios del Estándar de Pesquerías MSC,
--   los indicadores de comportamiento (IC) evaluados bajo el Estándar de Pesquerías MSC,
--   la evaluación a nivel de principios e IC, y
--   la implicancia de la pre-evaluación MSC.
+-   Propósito de los Estándar MSC y ASC,
+
+-   Las Unidad de Evaluación (UoA) y Unidad de Certificación (UoC),
+
+-   Los tres (3) Principios del Estándar de Pesquerías MSC,
+
+-   Los cuatro (4) Principios del Estándar de Acuicultura ASC,
+
+-   Los indicadores de comportamiento (IC) evaluados bajo los Estándar, y
+
+-   Los procesos de pre-certificación.
+:::
+
+<br>
 
 ## Horarios de clases
 
@@ -33,7 +37,9 @@ Este curso busca proporcionar una descripción y alcance sobre:
 | Ejercicio | Virtual | 02 Octubre (17:10 — 20:10 hrs)    |
 | Discusión | Virtual | 09 Octubre (17:10 — 20:10 hrs)    |
 
-## **License**
+<br>
+<br>
+## Licencia
 
 [![Creative Commons
 License](https://licensebuttons.net/l/by-sa/4.0/88x31.png){alt="Creative Commons License"}](https://creativecommons.org/licenses/by-sa/4.0/)\

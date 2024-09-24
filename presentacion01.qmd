@@ -3,7 +3,7 @@ title: "Certificación en Pesquerías"
 slide-format: revealjs
 ---
 
-## Alcanzando el estandar
+## Alcanzando el estándar
 
 Esta primera presentación aborda el marco conceptual y de implementación del proceso de certificación en
 pesquerías [MSC](https://www.msc.org/standards-and-certification/fisheries-standard) (Marine Stewardship

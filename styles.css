@@ -48,3 +48,34 @@
   background-position: 0.5em 0.5em;
 }
 
+.workedexample{
+  padding: 1em 1em 1em 4em;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background: lighten($body-bg, 10%) 5px center/3em no-repeat; 
+  border-top: 1px solid #569BBD;    /* openintro::COL[1,1] */ 
+  border-bottom: 1px solid #569BBD; /* openintro::COL[1,1] */ 
+  background-image: url("images/_icons/worked-example.png");
+  background-position: 0.5em 1em;
+}
+
+.workedexample:before {
+  content: "Example:";
+  clear: right;
+  display: block;
+  font-weight: bold;
+  font-variant: small-caps;
+  color: #569BBD;
+}
+
+.underconstruction { 
+  color: $body-bg;
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  font-weight: bold;
+  background: #F3CED4 5px center/3em no-repeat; 
+  border-top: 1px solid #F05133;    /* COL["red", "full"] */
+  border-bottom: 1px solid #F05133; /* COL["red", "full"] */
+  background-image: url("images/_icons/under-construction.png");
+}
+

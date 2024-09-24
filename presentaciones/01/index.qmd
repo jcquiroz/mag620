@@ -95,9 +95,7 @@ Por medio de:
 ::: {.column width="45%"}
 ### Pesquerías
 
-El Estándar de Pesquerías MSC mide la sostenibilidad ambiental de las pesquerías de captura. El Estándar de
-Pesquerías está disponible a todas las pesquerías de captura silvestre, incluidas las de países en desarrollo.
-El Estándar incluye tres (3) principios:
+El Estándar de Pesquerías MSC (Marine Stewardship Council) mide la sostenibilidad ambiental de las pesquerías de captura. El Estándar de Pesquerías está disponible a todas las pesquerías de captura silvestre, incluidas las de países en desarrollo. El Estándar incluye tres (3) principios:
 
 ::: incremental
 -   Poblaciones de peces saludables

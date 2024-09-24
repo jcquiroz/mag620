@@ -17,7 +17,7 @@ website:
         text: Sobre
   
   sidebar:
-    logo: "images/logo-mag-transparente.png"
+    logo: "images/logo-mag620.png"
     pinned: true
     style: floating
     background: light
@@ -29,12 +29,16 @@ website:
           - href: index.qmd
             text: Inicio
           - href: document.qmd
-            text: Documentos
+            text: Pesquerías
+          - href: document2.qmd
+            text: Acuicultura
       - text: "---"
       - section: "Presentaciones"
         contents:
           - href: presentacion01.qmd
-            text: MSC Guia
+            text: Estandar MSC
+          - href: presentacion02.qmd
+            text: Estandar ASC
           - href: reference.qmd
             text: Referencias
 

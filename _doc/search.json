@@ -1,163 +1,41 @@
 [
   {
-    "objectID": "md/themes.html",
-    "href": "md/themes.html",
-    "title": "**MAG 620**",
+    "objectID": "document2.html",
+    "href": "document2.html",
+    "title": "Certificación en acuicultura",
     "section": "",
-    "text": "default\ncerulean\ncosmo\ncyborg\ndarkly\nflatly\njournal\nlitera\nlumen\nlux\nmateria\nminty\nmorph\npulse\nquartz\nsandstone\nsimplex\nsketchy\nslate\nsolar\nspacelab\nsuperhero\nunited\nvapor\nyeti\nzephyr\n\n\n\n\n\n\n\n\n\n\n Volver arriba"
-  },
-  {
-    "objectID": "presentacion01.html",
-    "href": "presentacion01.html",
-    "title": "Certificación en Pesquerías",
-    "section": "",
-    "text": "Esta primera presentación aborda el marco conceptual y de implementación del proceso de certificación en pesquerías MSC (Marine Stewardship Council). El MSC es una organización internacional sin ánimo de lucro que promueve la pesca sostenible a través de su programa de certificación.\nEl proceso de certificación del MSC se basa en estándares rigurosos que evalúan la sostenibilidad ambiental, la gestión efectiva y la trazabilidad de las pesquerías. La implementación de estos estándares garantiza que los productos pesqueros certificados por el MSC provienen de fuentes sostenibles y bien gestionadas, contribuyendo así a la conservación de los recursos marinos.\n\n\n\nSi prefieres ver la presentación en un navegador independiente, puedes hacerlo presionando este link.",
-    "crumbs": [
-      "Sobre",
-      "Presentaciones",
-      "MSC Guia"
-    ]
-  },
-  {
-    "objectID": "presentacion01.html#alcanzando-el-estandar",
-    "href": "presentacion01.html#alcanzando-el-estandar",
-    "title": "Certificación en Pesquerías",
-    "section": "",
-    "text": "Esta primera presentación aborda el marco conceptual y de implementación del proceso de certificación en pesquerías MSC (Marine Stewardship Council). El MSC es una organización internacional sin ánimo de lucro que promueve la pesca sostenible a través de su programa de certificación.\nEl proceso de certificación del MSC se basa en estándares rigurosos que evalúan la sostenibilidad ambiental, la gestión efectiva y la trazabilidad de las pesquerías. La implementación de estos estándares garantiza que los productos pesqueros certificados por el MSC provienen de fuentes sostenibles y bien gestionadas, contribuyendo así a la conservación de los recursos marinos.\n\n\n\nSi prefieres ver la presentación en un navegador independiente, puedes hacerlo presionando este link.",
-    "crumbs": [
-      "Sobre",
-      "Presentaciones",
-      "MSC Guia"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Juan Carlos Quiroz",
-    "section": "",
-    "text": "Linkedin\n  \n  \n    \n     Github\n  \n\n      \nAnalista de datos pesqueros con especial interés en simulaciones de estrategias de explotación. Auditor de pesquerías para el Marine Stewardship Council.\n\n\nUniversidad de Tasmania, Australia | Hobart, PhD en Ciencias Cuantitativas\nUniversidad de Concepción, Chile | Concepción, MSc en Ciencias Pesquerias\n\n\n\nConsultor en ciencias cuantitativas | Analítica Pesquera | Valparaíso | Chile, 2023 – Actual\nEvaluación de Recursos Pesqueros | Jefe de Departamento | Instituto de Fomento Pesquero | Chile, 2016 – 2023 (Enero)\nInvestigador Senior | Instituto de Fomento Pesquero | 2003 – 2014"
-  },
-  {
-    "objectID": "about.html#formación",
-    "href": "about.html#formación",
-    "title": "Juan Carlos Quiroz",
-    "section": "",
-    "text": "Universidad de Tasmania, Australia | Hobart, PhD en Ciencias Cuantitativas\nUniversidad de Concepción, Chile | Concepción, MSc en Ciencias Pesquerias"
-  },
-  {
-    "objectID": "about.html#experiencia",
-    "href": "about.html#experiencia",
-    "title": "Juan Carlos Quiroz",
-    "section": "",
-    "text": "Consultor en ciencias cuantitativas | Analítica Pesquera | Valparaíso | Chile, 2023 – Actual\nEvaluación de Recursos Pesqueros | Jefe de Departamento | Instituto de Fomento Pesquero | Chile, 2016 – 2023 (Enero)\nInvestigador Senior | Instituto de Fomento Pesquero | 2003 – 2014"
-  },
-  {
-    "objectID": "document.html",
-    "href": "document.html",
-    "title": "Documentación",
-    "section": "",
-    "text": "Acá encontraras la documentación básica para implementar el estándar MSC. Estos documentos deben considerarse como referencia y no constituyen material obligatorio, aunque, serán de soporte para el ejercicio práctico de este módulo.",
+    "text": "Las normas del Aquaculture Stewardship Council (ASC) para los productos del mar cultivados de forma responsable le permiten demostrar a los consumidores que estos productos se han cultivado de una manera que contribuye a minimizar el impacto social y medioambiental de la acuicultura.\n\n\nPasos a seguir para obtener la certificación del Aquaculture Stewardship Council (ASC):\n\nInvestigación: Antes de comenzar el proceso de certificación con el Aquaculture Stewardship Council, es importante investigar y comprender los estándares y requisitos establecidos por el ASC. Esto incluye familiarizarse con los principios y criterios de certificación, así como con el proceso de evaluación.\nEvaluación inicial: Una vez que se haya realizado la investigación inicial, se debe realizar una evaluación interna de la operación acuícola para identificar posibles áreas de mejora y asegurarse de que se cumplen los requisitos mínimos del ASC.\nPlanificación: Con base en la evaluación inicial, se debe desarrollar un plan detallado que incluya las acciones necesarias para cumplir con los estándares del ASC. Esto puede implicar la implementación de prácticas sostenibles, la mejora de la gestión ambiental y social, entre otros aspectos.\nImplementación: Una vez que se haya establecido un plan de acción, es fundamental implementar las medidas necesarias para cumplir con los estándares del ASC. Esto puede implicar cambios en las prácticas de cultivo, la adopción de tecnologías sostenibles y la capacitación del personal.\nAuditoría y certificación: Una vez que se hayan implementado todas las medidas necesarias, se debe programar una auditoría con un organismo de certificación acreditado por el ASC. Durante la auditoría, se evaluará el cumplimiento de los estándares del ASC y, si se cumplen todos los requisitos, se otorgará la certificación.\nMantenimiento y mejora continua: Obtener la certificación del ASC es un logro significativo, pero es importante recordar que la sostenibilidad es un proceso continuo. Es fundamental mantener los estándares establecidos y buscar constantemente maneras de mejorar las prácticas acuícolas para garantizar la protección del medio ambiente y la sociedad.\n\nEstos son los pasos generales a seguir para obtener la certificación del Aquaculture Stewardship Council. Es importante recordar que cada operación acuícola es única y puede requerir enfoques específicos para cumplir con los estándares del ASC. La certificación del ASC es un reconocimiento del compromiso con la sostenibilidad y la responsabilidad en la acuicultura.",
     "crumbs": [
       "Sobre",
       "Materiales",
-      "Documentos"
+      "Acuicultura"
     ]
   },
   {
-    "objectID": "document.html#documentos-generales-del-programa",
-    "href": "document.html#documentos-generales-del-programa",
-    "title": "Documentación",
-    "section": "Documentos generales del programa",
-    "text": "Documentos generales del programa\nUna base sobre el alcance del estándar MSC. Desde el año 2018, el estándar MSC ha sido actualizado en tres oportunidades, sumando importantes complejidades al proceso de revisión y auditorias.\n\n\nRequerimientos de certificación general\nReglas y conductas no aceptables\nRequerimientos de elegibilidad\nRequisitos de elegibilidad para el trabajo durante faenas\nVocabulario y acrónimos MSC",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Documentos"
-    ]
-  },
-  {
-    "objectID": "document.html#estándar-de-certificación",
-    "href": "document.html#estándar-de-certificación",
-    "title": "Documentación",
-    "section": "Estándar de certificación",
-    "text": "Estándar de certificación\nCorresponde al procedimiento de certificación con las rubricas y estándar que se evalúan. Utilizando formas pre-diseñadas por MSC, los auditores de MSC deben calificar cada uno de los principios en bases al procedimiento indicado en estos estándar. Note que existen diferentes versiones, las que han surgido a medida se adecua el programa MSC.\n\n\nEstandar de Certificación V3.1\nEstandar de Certificación V3.0\nEstandar de Certificación V2.01",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Documentos"
-    ]
-  },
-  {
-    "objectID": "document.html#las-recetas",
-    "href": "document.html#las-recetas",
-    "title": "Documentación",
-    "section": "Las recetas",
-    "text": "Las recetas\nEl estándar MSC es complejo y requiere directrices al momento de asignar un puntaje durante la evaluación. Estas guías son los pasos frente a los diferentes procedimientos.\n\n\nGuia para la certificación - V3.1\nGuia para la certificación - V3.0\nGuia para la certificación - V2.3\nAsignación de herramientas V1.2\nAsignación de herramientas V1.1\nDisputas y resoluciones\nPrograma de transición V2.0\nHerramienta de rastreo y asignación de hitos",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Documentos"
-    ]
-  },
-  {
-    "objectID": "reference.html",
-    "href": "reference.html",
-    "title": "**MAG 620**",
+    "objectID": "document2.html#estándar-asc",
+    "href": "document2.html#estándar-asc",
+    "title": "Certificación en acuicultura",
     "section": "",
-    "text": "Volver arriba",
-    "crumbs": [
-      "Sobre",
-      "Presentaciones",
-      "Referencias"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Certificación de pesquerías y acuicultura",
-    "section": "",
-    "text": "Como parte del curso “Métodos e instrumentos para la gestión de recursos acuaticos” (MGR620), esta página contiene información sobre el módulo Certificación de pesquerías y acuicultura, que será impartido por Juan-Carlos Quiroz en calidad de profesor invitado. Todos los materiales del curso se publicarán en este sitio.",
+    "text": "Las normas del Aquaculture Stewardship Council (ASC) para los productos del mar cultivados de forma responsable le permiten demostrar a los consumidores que estos productos se han cultivado de una manera que contribuye a minimizar el impacto social y medioambiental de la acuicultura.\n\n\nPasos a seguir para obtener la certificación del Aquaculture Stewardship Council (ASC):\n\nInvestigación: Antes de comenzar el proceso de certificación con el Aquaculture Stewardship Council, es importante investigar y comprender los estándares y requisitos establecidos por el ASC. Esto incluye familiarizarse con los principios y criterios de certificación, así como con el proceso de evaluación.\nEvaluación inicial: Una vez que se haya realizado la investigación inicial, se debe realizar una evaluación interna de la operación acuícola para identificar posibles áreas de mejora y asegurarse de que se cumplen los requisitos mínimos del ASC.\nPlanificación: Con base en la evaluación inicial, se debe desarrollar un plan detallado que incluya las acciones necesarias para cumplir con los estándares del ASC. Esto puede implicar la implementación de prácticas sostenibles, la mejora de la gestión ambiental y social, entre otros aspectos.\nImplementación: Una vez que se haya establecido un plan de acción, es fundamental implementar las medidas necesarias para cumplir con los estándares del ASC. Esto puede implicar cambios en las prácticas de cultivo, la adopción de tecnologías sostenibles y la capacitación del personal.\nAuditoría y certificación: Una vez que se hayan implementado todas las medidas necesarias, se debe programar una auditoría con un organismo de certificación acreditado por el ASC. Durante la auditoría, se evaluará el cumplimiento de los estándares del ASC y, si se cumplen todos los requisitos, se otorgará la certificación.\nMantenimiento y mejora continua: Obtener la certificación del ASC es un logro significativo, pero es importante recordar que la sostenibilidad es un proceso continuo. Es fundamental mantener los estándares establecidos y buscar constantemente maneras de mejorar las prácticas acuícolas para garantizar la protección del medio ambiente y la sociedad.\n\nEstos son los pasos generales a seguir para obtener la certificación del Aquaculture Stewardship Council. Es importante recordar que cada operación acuícola es única y puede requerir enfoques específicos para cumplir con los estándares del ASC. La certificación del ASC es un reconocimiento del compromiso con la sostenibilidad y la responsabilidad en la acuicultura.",
     "crumbs": [
       "Sobre",
       "Materiales",
-      "Inicio"
+      "Acuicultura"
     ]
   },
   {
-    "objectID": "index.html#estándar-msc",
-    "href": "index.html#estándar-msc",
-    "title": "Certificación de pesquerías y acuicultura",
-    "section": "Estándar MSC",
-    "text": "Estándar MSC\nEl Estándar MSC es una herramienta de evaluación comparativa accesible para todas las pesquerías y se puede utilizar sin requerir que la pesquería obtenga la certificación MSC. El uso del Estándar para medir el progreso de Proyectos de Mejora de Pesquerías (FIP, sigla en Inglés) permite a las empresas de la cadena de suministro tomar decisiones mejor informadas para participar o abastecerse de estos proyectos. Por lo tanto, es importante que los interesados, en este caso los alumnos, comprendan cómo MSC define una pesquería, sus requisitos para la certificación y su metodología de puntuación.\nEste curso busca proporcionar una descripción y alcance sobre:\n\nel propósito del Estándar de Pesquerías MSC,\nlas Unidad de Evaluación (UoA) y Unidad de Certificación (UoC) para la definición de pesquerías,\nlos tres (3) Principios del Estándar de Pesquerías MSC,\nlos indicadores de comportamiento (IC) evaluados bajo el Estándar de Pesquerías MSC,\nla evaluación a nivel de principios e IC, y\nla implicancia de la pre-evaluación MSC.",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Inicio"
-    ]
+    "objectID": "examples/creating-slides-1.html#getting-up",
+    "href": "examples/creating-slides-1.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
   },
   {
-    "objectID": "index.html#horarios-de-clases",
-    "href": "index.html#horarios-de-clases",
-    "title": "Certificación de pesquerías y acuicultura",
-    "section": "Horarios de clases",
-    "text": "Horarios de clases\n\n\n\nClase\nLugar\nHorario\n\n\n\n\nCátedra\nVirtual\n25 Septiembre (17:10 — 20:10 hrs)\n\n\nEjercicio\nVirtual\n02 Octubre (17:10 — 20:10 hrs)\n\n\nDiscusión\nVirtual\n09 Octubre (17:10 — 20:10 hrs)",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Inicio"
-    ]
-  },
-  {
-    "objectID": "index.html#license",
-    "href": "index.html#license",
-    "title": "Certificación de pesquerías y acuicultura",
-    "section": "License",
-    "text": "License\n\nEste sitio web ha sido construido bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International. Visite aquí para detalles sobre este tipo de licencia.",
-    "crumbs": [
-      "Sobre",
-      "Materiales",
-      "Inicio"
-    ]
+    "objectID": "examples/creating-slides-1.html#going-to-sleep",
+    "href": "examples/creating-slides-1.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
   },
   {
     "objectID": "presentaciones/01/index.html#juan-carlos-quiroz",
@@ -185,7 +63,7 @@
     "href": "presentaciones/01/index.html#estándares-de-certificación",
     "title": "Certificaciones para Conservar",
     "section": "Estándares de certificación",
-    "text": "Estándares de certificación\n\n\nPesquerías\nEl Estándar de Pesquerías MSC mide la sostenibilidad ambiental de las pesquerías de captura. El Estándar de Pesquerías está disponible a todas las pesquerías de captura silvestre, incluidas las de países en desarrollo. El Estándar incluye tres (3) principios:\n\n\nPoblaciones de peces saludables\nMinimizar impactos ambientales\nGestión eficaz\n\n\n\n\nCustodia\nEl Estándar de Cadena de Custodia garantiza que la etiqueta azul de MSC se muestre solo en productos del mar que se puedan rastrear a una pesquería certificada por MSC. El ecoetiquetado busca cinco (5) principios:\n\n\nOferta certificada\nProductos identificables\nAsegurar separación\nTrazables y registrados\nGestión demostrable\n\n\n\n\n\n\n\n🔗 Pesquerías\n\n🔗 Cadena de Custodia"
+    "text": "Estándares de certificación\n\n\nPesquerías\nEl Estándar de Pesquerías MSC (Marine Stewardship Council) mide la sostenibilidad ambiental de las pesquerías de captura. El Estándar de Pesquerías está disponible a todas las pesquerías de captura silvestre, incluidas las de países en desarrollo. El Estándar incluye tres (3) principios:\n\n\nPoblaciones de peces saludables\nMinimizar impactos ambientales\nGestión eficaz\n\n\n\n\nCustodia\nEl Estándar de Cadena de Custodia garantiza que la etiqueta azul de MSC se muestre solo en productos del mar que se puedan rastrear a una pesquería certificada por MSC. El ecoetiquetado busca cinco (5) principios:\n\n\nOferta certificada\nProductos identificables\nAsegurar separación\nTrazables y registrados\nGestión demostrable\n\n\n\n\n\n\n\n🔗 Pesquerías\n\n🔗 Cadena de Custodia"
   },
   {
     "objectID": "presentaciones/01/index.html#programa-msc",
@@ -356,17 +234,151 @@
     "text": "Gracias por escuchar!\n\n¿Tienes preguntas?\n @jcquiroz\n facilevisual.com"
   },
   {
-    "objectID": "examples/creating-slides-1.html#getting-up",
-    "href": "examples/creating-slides-1.html#getting-up",
-    "title": "Habits",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Juan Carlos Quiroz",
+    "section": "",
+    "text": "Linkedin\n  \n  \n    \n     Github\n  \n\n      \nAnalista de datos pesqueros con especial interés en simulaciones de estrategias de explotación. Auditor de pesquerías para el Marine Stewardship Council.\n\n\nUniversidad de Tasmania, Australia | Hobart, PhD en Ciencias Cuantitativas\nUniversidad de Concepción, Chile | Concepción, MSc en Ciencias Pesquerias\n\n\n\nConsultor en ciencias cuantitativas | Analítica Pesquera | Valparaíso | Chile, 2023 – Actual\nEvaluación de Recursos Pesqueros | Jefe de Departamento | Instituto de Fomento Pesquero | Chile, 2016 – 2023 (Enero)\nInvestigador Senior | Instituto de Fomento Pesquero | 2003 – 2014"
   },
   {
-    "objectID": "examples/creating-slides-1.html#going-to-sleep",
-    "href": "examples/creating-slides-1.html#going-to-sleep",
-    "title": "Habits",
-    "section": "Going to sleep",
-    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+    "objectID": "about.html#formación",
+    "href": "about.html#formación",
+    "title": "Juan Carlos Quiroz",
+    "section": "",
+    "text": "Universidad de Tasmania, Australia | Hobart, PhD en Ciencias Cuantitativas\nUniversidad de Concepción, Chile | Concepción, MSc en Ciencias Pesquerias"
+  },
+  {
+    "objectID": "about.html#experiencia",
+    "href": "about.html#experiencia",
+    "title": "Juan Carlos Quiroz",
+    "section": "",
+    "text": "Consultor en ciencias cuantitativas | Analítica Pesquera | Valparaíso | Chile, 2023 – Actual\nEvaluación de Recursos Pesqueros | Jefe de Departamento | Instituto de Fomento Pesquero | Chile, 2016 – 2023 (Enero)\nInvestigador Senior | Instituto de Fomento Pesquero | 2003 – 2014"
+  },
+  {
+    "objectID": "document.html",
+    "href": "document.html",
+    "title": "Certificación en pesquerías",
+    "section": "",
+    "text": "El Estándar MSC es una herramienta de evaluación comparativa accesible para todas las pesquerías y se puede utilizar sin requerir que la pesquería obtenga la certificación Marine Stewardship Council. El uso del Estándar para medir el progreso de Proyectos de Mejora de Pesquerías (FIP, sigla en Inglés) permite a las empresas de la cadena de suministro tomar decisiones mejor informadas para participar o abastecerse de estos proyectos. Por lo tanto, es importante que los interesados, en este caso los alumnos, comprendan cómo MSC define una pesquería, sus requisitos para la certificación y su metodología de puntuación.\nEste curso busca proporcionar una descripción y alcance sobre:\n\nel propósito del Estándar de Pesquerías MSC,\nlas Unidad de Evaluación (UoA) y Unidad de Certificación (UoC) para la definición de pesquerías,\nlos tres (3) Principios del Estándar de Pesquerías MSC,\nlos indicadores de comportamiento (IC) evaluados bajo el Estándar de Pesquerías MSC,\nla evaluación a nivel de principios e IC, y\nla implicancia de la pre-evaluación MSC.",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Pesquerías"
+    ]
+  },
+  {
+    "objectID": "document.html#estándar-msc",
+    "href": "document.html#estándar-msc",
+    "title": "Certificación en pesquerías",
+    "section": "",
+    "text": "El Estándar MSC es una herramienta de evaluación comparativa accesible para todas las pesquerías y se puede utilizar sin requerir que la pesquería obtenga la certificación Marine Stewardship Council. El uso del Estándar para medir el progreso de Proyectos de Mejora de Pesquerías (FIP, sigla en Inglés) permite a las empresas de la cadena de suministro tomar decisiones mejor informadas para participar o abastecerse de estos proyectos. Por lo tanto, es importante que los interesados, en este caso los alumnos, comprendan cómo MSC define una pesquería, sus requisitos para la certificación y su metodología de puntuación.\nEste curso busca proporcionar una descripción y alcance sobre:\n\nel propósito del Estándar de Pesquerías MSC,\nlas Unidad de Evaluación (UoA) y Unidad de Certificación (UoC) para la definición de pesquerías,\nlos tres (3) Principios del Estándar de Pesquerías MSC,\nlos indicadores de comportamiento (IC) evaluados bajo el Estándar de Pesquerías MSC,\nla evaluación a nivel de principios e IC, y\nla implicancia de la pre-evaluación MSC.",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Pesquerías"
+    ]
+  },
+  {
+    "objectID": "document.html#información-de-soporte",
+    "href": "document.html#información-de-soporte",
+    "title": "Certificación en pesquerías",
+    "section": "Información de soporte",
+    "text": "Información de soporte\nAcá encontraras la documentación básica para implementar el estándar MSC. Estos documentos deben considerarse como referencia y no constituyen material obligatorio, aunque, serán de soporte para el ejercicio práctico de este módulo.\n\nDocumentos generales\nUna base sobre el alcance del estándar MSC. Desde el año 2018, el estándar MSC ha sido actualizado en tres oportunidades, sumando importantes complejidades al proceso de revisión y auditorias.\n\n\nRequerimientos de certificación general\nReglas y conductas no aceptables\nRequerimientos de elegibilidad\nRequisitos de elegibilidad para el trabajo durante faenas\nVocabulario y acrónimos MSC\n\n\n\n\nEstándar de certificación\nCorresponde al procedimiento de certificación con las rubricas y estándar que se evalúan. Utilizando formas pre-diseñadas por MSC, los auditores de MSC deben calificar cada uno de los principios en bases al procedimiento indicado en estos estándar. Note que existen diferentes versiones, las que han surgido a medida se adecua el programa MSC.\n\n\nEstandar de Certificación V3.1\nEstandar de Certificación V3.0\nEstandar de Certificación V2.01\n\n\n\n\nLas recetas\nEl estándar MSC es complejo y requiere directrices al momento de asignar un puntaje durante la evaluación. Estas guías son los pasos frente a los diferentes procedimientos.\n\n\nGuia para la certificación - V3.1\nGuia para la certificación - V3.0\nGuia para la certificación - V2.3\nAsignación de herramientas V1.2\nAsignación de herramientas V1.1\nDisputas y resoluciones\nPrograma de transición V2.0\nHerramienta de rastreo y asignación de hitos",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Pesquerías"
+    ]
+  },
+  {
+    "objectID": "reference.html",
+    "href": "reference.html",
+    "title": "Referencias",
+    "section": "",
+    "text": "En construcción\n\n\n\n\n Volver arriba",
+    "crumbs": [
+      "Sobre",
+      "Presentaciones",
+      "Referencias"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Certificación de pesquerías y acuicultura",
+    "section": "",
+    "text": "Como parte del curso “Métodos e instrumentos para la gestión de recursos acuaticos” (MGR620), esta página contiene información sobre el módulo Certificación de pesquerías y acuicultura, que será impartido por Juan-Carlos Quiroz en calidad de profesor invitado. Todos los materiales del curso se publicarán en este sitio.",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Inicio"
+    ]
+  },
+  {
+    "objectID": "index.html#temario",
+    "href": "index.html#temario",
+    "title": "Certificación de pesquerías y acuicultura",
+    "section": "Temario",
+    "text": "Temario\n\n\n\n\n\n\n\nEl estándar de certificación y la sostenibilidad en pesquerías y acuicultura,\nPropósito de los Estándar MSC y ASC,\nLas Unidad de Evaluación (UoA) y Unidad de Certificación (UoC),\nLos tres (3) Principios del Estándar de Pesquerías MSC,\nLos cuatro (4) Principios del Estándar de Acuicultura ASC,\nLos indicadores de comportamiento (IC) evaluados bajo los Estándar, y\nLos procesos de pre-certificación.",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Inicio"
+    ]
+  },
+  {
+    "objectID": "index.html#horarios-de-clases",
+    "href": "index.html#horarios-de-clases",
+    "title": "Certificación de pesquerías y acuicultura",
+    "section": "Horarios de clases",
+    "text": "Horarios de clases\n\n\n\nClase\nLugar\nHorario\n\n\n\n\nCátedra\nVirtual\n25 Septiembre (17:10 — 20:10 hrs)\n\n\nEjercicio\nVirtual\n02 Octubre (17:10 — 20:10 hrs)\n\n\nDiscusión\nVirtual\n09 Octubre (17:10 — 20:10 hrs)\n\n\n\n  ## Licencia\n\nEste sitio web ha sido construido bajo una licencia Creative Commons Attribution-ShareAlike 4.0 International. Visite aquí para detalles sobre este tipo de licencia.",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Inicio"
+    ]
+  },
+  {
+    "objectID": "presentacion02.html",
+    "href": "presentacion02.html",
+    "title": "Certificación en Acuicultura",
+    "section": "",
+    "text": "En construcción\n\n\n\n\n Volver arriba",
+    "crumbs": [
+      "Sobre",
+      "Presentaciones",
+      "Estandar ASC"
+    ]
+  },
+  {
+    "objectID": "presentacion01.html",
+    "href": "presentacion01.html",
+    "title": "Certificación en Pesquerías",
+    "section": "",
+    "text": "Esta primera presentación aborda el marco conceptual y de implementación del proceso de certificación en pesquerías MSC (Marine Stewardship Council). El MSC es una organización internacional sin ánimo de lucro que promueve la pesca sostenible a través de su programa de certificación.\nEl proceso de certificación del MSC se basa en estándares rigurosos que evalúan la sostenibilidad ambiental, la gestión efectiva y la trazabilidad de las pesquerías. La implementación de estos estándares garantiza que los productos pesqueros certificados por el MSC provienen de fuentes sostenibles y bien gestionadas, contribuyendo así a la conservación de los recursos marinos.\n\n\n\nSi prefieres ver la presentación en un navegador independiente, puedes hacerlo presionando este link.",
+    "crumbs": [
+      "Sobre",
+      "Presentaciones",
+      "Estandar MSC"
+    ]
+  },
+  {
+    "objectID": "presentacion01.html#alcanzando-el-estándar",
+    "href": "presentacion01.html#alcanzando-el-estándar",
+    "title": "Certificación en Pesquerías",
+    "section": "",
+    "text": "Esta primera presentación aborda el marco conceptual y de implementación del proceso de certificación en pesquerías MSC (Marine Stewardship Council). El MSC es una organización internacional sin ánimo de lucro que promueve la pesca sostenible a través de su programa de certificación.\nEl proceso de certificación del MSC se basa en estándares rigurosos que evalúan la sostenibilidad ambiental, la gestión efectiva y la trazabilidad de las pesquerías. La implementación de estos estándares garantiza que los productos pesqueros certificados por el MSC provienen de fuentes sostenibles y bien gestionadas, contribuyendo así a la conservación de los recursos marinos.\n\n\n\nSi prefieres ver la presentación en un navegador independiente, puedes hacerlo presionando este link.",
+    "crumbs": [
+      "Sobre",
+      "Presentaciones",
+      "Estandar MSC"
+    ]
+  },
+  {
+    "objectID": "md/themes.html",
+    "href": "md/themes.html",
+    "title": "**MAG 620**",
+    "section": "",
+    "text": "default\ncerulean\ncosmo\ncyborg\ndarkly\nflatly\njournal\nlitera\nlumen\nlux\nmateria\nminty\nmorph\npulse\nquartz\nsandstone\nsimplex\nsketchy\nslate\nsolar\nspacelab\nsuperhero\nunited\nvapor\nyeti\nzephyr\n\n\n\n\n\n\n\n\n\n\n Volver arriba"
   }
 ]
