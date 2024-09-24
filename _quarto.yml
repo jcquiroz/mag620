@@ -48,6 +48,7 @@ format:
   html:
     theme: lumen
     toc: true
+    css: styles.css
     lightbox: 
       match: auto
       loop: false

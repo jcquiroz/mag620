@@ -54,9 +54,21 @@
   {
     "objectID": "document.html",
     "href": "document.html",
-    "title": "**MAG 620**",
+    "title": "Documentación",
     "section": "",
-    "text": "Volver arriba",
+    "text": "Acá encontraras la documentación básica para implementar el estándar MSC. Estos documentos deben considerarse como referencia y no constituyen material obligatorio, aunque, serán de soporte para el ejercicio práctico de este módulo.",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Documentos"
+    ]
+  },
+  {
+    "objectID": "document.html#documentos-generales-del-programa",
+    "href": "document.html#documentos-generales-del-programa",
+    "title": "Documentación",
+    "section": "Documentos generales del programa",
+    "text": "Documentos generales del programa\nUna base sobre el alcance del estándar MSC. Desde el año 2018, el estándar MSC ha sido actualizado en tres oportunidades, sumando importantes complejidades al proceso de revisión y auditorias.\n\n\nRequerimientos de certificación general\nReglas y conductas no aceptables\nRequerimientos de elegibilidad\nRequisitos de elegibilidad para el trabajo durante faenas\nVocabulario y acrónimos MSC",
     "crumbs": [
       "Sobre",
       "Materiales",
@@ -104,7 +116,7 @@
     "href": "index.html#horarios-de-clases",
     "title": "Certificación de pesquerías y acuicultura",
     "section": "Horarios de clases",
-    "text": "Horarios de clases\n\n\n\nClase\nLugar\nHorario\n\n\n\n\nCátedra\nVirtual\n25 Septiembre\n\n\nEjercicio\nVirtual\n02 Octubre\n\n\nDiscusión\nVirtual\n09 Octubre",
+    "text": "Horarios de clases\n\n\n\nClase\nLugar\nHorario\n\n\n\n\nCátedra\nVirtual\n25 Septiembre (17:10 — 20:10 hrs)\n\n\nEjercicio\nVirtual\n02 Octubre (17:10 — 20:10 hrs)\n\n\nDiscusión\nVirtual\n09 Octubre (17:10 — 20:10 hrs)",
     "crumbs": [
       "Sobre",
       "Materiales",
@@ -332,5 +344,29 @@
     "title": "Habits",
     "section": "Going to sleep",
     "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  },
+  {
+    "objectID": "document.html#estándar-de-certificación",
+    "href": "document.html#estándar-de-certificación",
+    "title": "Documentación",
+    "section": "Estándar de certificación",
+    "text": "Estándar de certificación\nCorresponde al procedimiento de certificación con las rubricas y estándares que se evalúan. Utilizando formas pre-diseñadas por MSC, los auditores de MSC deben calificar cada uno de los principios en bases al procedimiento indicado en estos estándar. Note que existen diferentes versiones, las que han surgido a medida se adecua el programa MSC.\n\n\nEstandar de Certificación V3.1\nEstandar de Certificación V3.0\nEstandar de Certificación V2.01",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Documentos"
+    ]
+  },
+  {
+    "objectID": "document.html#las-recetas",
+    "href": "document.html#las-recetas",
+    "title": "Documentación",
+    "section": "Las recetas",
+    "text": "Las recetas\nEl estándar MSC es complejo y requiere aclaraciones al momento de asignar un puntaje durante la evaluación. Estas guías son los pasos frente a los diferentes procedimientos.\n\n\nGuia para la certificación - V3.1\nGuia para la certificación - V3.0\nGuia para la certificación - V2.3\nAsignación de puntajes V1.2\nAsignación de puntajes V1.1\nDisputas y resoluciones\nPrograma de transición V2.0\nHerramienta de rastreo y asignación de hitos",
+    "crumbs": [
+      "Sobre",
+      "Materiales",
+      "Documentos"
+    ]
   }
 ]
