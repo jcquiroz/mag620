@@ -3,6 +3,19 @@ title: "Certificación en Acuicultura"
 slide-format: revealjs
 ---
 
+## Titulo
+
+<div>
+
+```{=html}
+<iframe class="slide-deck" src="presentaciones/02/" title="ASC Guia" style="height:420px;width:750px;border:none;"></iframe>
+```
+
+</div>
+
+Si prefieres ver la presentación en un navegador independiente, puedes hacerlo presionando este
+[link](presentaciones/02/){target="_blank"}.
+
 <br>
 
 ::: underconstruction

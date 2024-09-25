@@ -4,12 +4,13 @@ subtitle: "Un procedimiento para lograr un estándar"
 author: "Juan-Carlos Quiroz"
 institute: "Facile Visual"
 role: "Asesor y consultor en pesquerías"
+
 format: 
   revealjs:
     resources: imagenes/portada.png
     footer: "[facilevisual.com](https://facilevisual.com/)"
-    theme: [simple, assets/monash.scss]
-    css: [assets/syntax-highlight.css, assets/custom.css, assets/pacman.css]
+    theme: [simple, assets01/monash.scss]
+    css: [assets01/syntax-highlight.css, assets01/custom.css, assets01/pacman.css]
     slide-number: h.v
     incremental: true
     scrollable: true

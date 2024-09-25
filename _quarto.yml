@@ -1,7 +1,11 @@
 project:
   type: website
   output-dir: _doc
+  render: 
+    - "*.qmd"
+    - "presentaciones/02/index_legacy.qmd"
 lang: es
+
 
 website:
   title: "**MAG 620**"
@@ -35,6 +39,8 @@ website:
       - text: "---"
       - section: "Presentaciones"
         contents:
+          - href: presentaciones/00/intro.qmd
+            text: Introducción
           - href: presentacion01.qmd
             text: Estandar MSC
           - href: presentacion02.qmd

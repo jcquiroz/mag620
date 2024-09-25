@@ -1,0 +1,69 @@
+---
+title: "MAG 620"
+subtitle: "Métodos e instrumentos para la gestión de recursos acuaticos"
+author: "[Juan Carlos Quiroz](https://facilevisual.com/jcquiroz)"
+
+format: 
+  revealjs:
+    theme: simple
+    slide-number: c/t
+    show-slide-number: all
+    title-slide-attributes:
+      data-background-color: "#97342f"
+    preview-links: true
+    footer: "MAG 620"
+    
+editor: source
+lightbox:
+  effect: fade
+  desc-position: right
+  loop: true
+---
+
+## Temario
+
+::: {.callout-note appearance="simple"}
+-   El estándar de certificación y la sostenibilidad en pesquerías y acuicultura,
+
+-   Propósito de los Estándar MSC y ASC,
+
+-   Las Unidad de Evaluación (UoA) y Unidad de Certificación (UoC),
+
+-   Los tres (3) Principios del Estándar de Pesquerías MSC,
+
+-   Los cuatro (4) Principios del Estándar de Acuicultura ASC,
+
+-   Los indicadores de comportamiento (IC) evaluados bajo los Estándar, y
+
+-   Los procesos de pre-certificación.
+:::
+
+## Trabajo Práctico
+
+Realizaremos un ejercicio de auditoría para cada uno de los principios.
+
+::: columns
+::: {.column width="65%"}
+**Grupos**
+
+P1: Imprecisión en los criterios de ponderación
+
+P2: Especies secundarias y acompañantes
+
+P3: Estrategia de explotación
+:::
+
+::: {.column width="35%"}
+**Desarrollo**
+
+Presentación del caso, principales observaciones, opiniones sobre las condiciones.
+:::
+:::
+
+## Agenda
+
+Día 1: Estandar MSC
+
+Día 2: Estandar ASC - Auditoría
+
+Día 3: Exposiciones

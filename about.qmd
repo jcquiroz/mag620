@@ -14,23 +14,22 @@ about:
       href: https://github.com/jcquiroz
 ---
 
-:::{#hero-heading}
-
-Analista de datos pesqueros con especial interés en simulaciones de estrategias de explotación. Auditor de pesquerías para el [Marine Stewardship Council](https://fisheries.msc.org/@@login). 
+::: {#hero-heading}
+Analista de datos pesqueros con especial interés en simulaciones de estrategias de explotación. Auditor de
+pesquerías para el [Marine Stewardship Council](https://fisheries.msc.org/@@login).
 
 ## Formación
 
 Universidad de Tasmania, Australia \| Hobart, PhD en Ciencias Cuantitativas
 
-Universidad de Concepción, Chile \| Concepción, MSc en Ciencias Pesquerias 
+Universidad de Concepción, Chile \| Concepción, MSc en Ciencias Pesquerias
 
 ## Experiencia
 
 Consultor en ciencias cuantitativas \| Analítica Pesquera \| Valparaíso \| Chile, 2023 -- Actual
 
-Evaluación de Recursos Pesqueros \| Jefe de Departamento \| Instituto de Fomento Pesquero \| Chile, 2016 -- 2023 (Enero)
+Evaluación de Recursos Pesqueros \| Jefe de Departamento \| Instituto de Fomento Pesquero \| Chile, 2016 --
+2023 (Enero)
 
 Investigador Senior \| Instituto de Fomento Pesquero \| 2003 -- 2014
-
 :::
-

@@ -37,8 +37,8 @@ materiales del curso se publicarán en este sitio.
 | Ejercicio | Virtual | 02 Octubre (17:10 — 20:10 hrs)    |
 | Discusión | Virtual | 09 Octubre (17:10 — 20:10 hrs)    |
 
-<br>
-<br>
+<br> <br>
+
 ## Licencia
 
 [![Creative Commons

@@ -1,0 +1,37 @@
+---
+title: "ASC"
+subtitle: "Producción y buenas prácticas"
+institute: "Facile Visual"
+role: "Asesor y consultor en pesquerías"
+author: "[Juan Carlos Quiroz](https://facilevisual.com/jcquiroz)"
+
+format: 
+  revealjs:
+    theme: assets02/asc.scss
+    logo: images/logo_asc.png
+    slide-number: c/t
+    show-slide-number: all
+    title-slide-attributes:
+      data-background-color: "#562457"
+    preview-links: true
+    footer: "ASC"
+    
+editor: source
+lightbox:
+  effect: fade
+  desc-position: right
+  loop: true
+---
+
+## Vínculo a esta presentación
+
+```{r}
+#| include: false
+library(qrcode)
+url <- qr_code("https://jcquiroz.github.io/mag620/")
+generate_svg(url, filename = "images/qr.svg")
+```
+
+![](images/qr.svg){fig-align="center"}
+
+## Test
