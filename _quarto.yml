@@ -45,8 +45,15 @@ website:
             text: Estandar MSC
           - href: presentacion02.qmd
             text: Estandar ASC
-          - href: reference.qmd
-            text: Referencias
+      - text: "---"
+      - section: "Práctico"
+        contents:
+          - href: P1.qmd
+            text: Principio 1
+          - href: P2.qmd
+            text: Principio 2
+          - href: P3.qmd
+            text: Principio 3
 
   page-footer:
     right: "Este sitio fue construido utilizando [Quarto](https://quarto.org/)."

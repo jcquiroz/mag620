@@ -1,15 +1,15 @@
 ---
-title: "Habits"
-author: "John Doe"
+title: "Facile Visual"
+author: "Juan-Carlos Quiroz"
 format: revealjs
 ---
 
-## Getting up
+## P1
 
--   Turn off alarm
--   Get out of bed
+-   pp1.1
+-   pp1.2
 
-## Going to sleep
+## P2
 
--   Get in bed
--   Count sheep
+-   pp2.1
+-   pp2.2

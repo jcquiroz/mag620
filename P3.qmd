@@ -1,0 +1,34 @@
+---
+title: "Principio 3"
+subtitle: "Gestion y estrategia de captura para Aleta Amarilla"
+---
+
+El atún de aleta amarilla es una especie altamente migratoria que se encuentra en aguas tropicales y subtropicales de todo el mundo. La Comisión Interamericana del Atún Tropical (CIAT - IATTC) es responsable de la conservación y gestión de las poblaciones de atún en el Océano Pacífico Oriental.
+
+IATTC ha clasificado el estado de explotación del atún aleta amarilla en el Océano Pacífico Oriental (OPO) como subexplotado, con riesgo de sobre-explotación. La comisión de la IATTC ha implementando medidas de gestión para abordar el riesgo y mejorar el estado de la población de atún aleta amarilla en la región. 
+
+## Material de trabajo
+
+::: info-box-important
+-   [Reporte Auditoría año 1](practico/yellowfin/auditoria1.pdf){target="_blank"}
+-   [Selección Auditores](practico/yellowfin/seleccionauditores.pdf){target="_blank"}
+-   [Anuncio Extensión](practico/yellowfin/anuncioexten.pdf){target="_blank"}
+-   [Reporte de Extensión](practico/yellowfin/extenBET.pdf){target="_blank"}
+:::
+
+
+## Secciones relevantes
+### Reporte Auditoria
+- Condiciones | Paginas 32-34
+- Ejemplo de re-puntuación | Pagina 35
+- Revisión Principio 3 | Paginas 73-82
+- Nuevas condiciones | Pagina 83-84
+
+### Anuncio Extensión
+- Incorporación especie objetivo | Pagina 2
+- Brechas Principio 3 | Pagina 10
+
+### Reporte Extensión
+- Puntajes involucrados | Paginas 15-16
+- Condiciones vinculantes | Paginas 142-143
+

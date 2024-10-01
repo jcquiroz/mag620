@@ -1,0 +1,52 @@
+---
+title: "Principio 2"
+subtitle: "Especies secundarias en la pesquería de Krill"
+---
+
+Los principales problemas en torno a las pesquerías de krill en la Comisión para la Conservación de los
+Recursos Vivos Marinos Antárticos (CCAMLR) incluyen:
+
+1.  Riesgo de sobrepesca: Existe la preocupación de que la actual estrategia de explotación no es efectiva a
+    nivel local, lo que podría tener impactos negativos en la población de krill y en el ecosistema marino en
+    su conjunto.
+
+2.  Impactos en el ecosistema: El krill es una especie clave en la red trófica antártica, sirviendo como
+    fuente de alimento primaria para muchos organismos marinos, incluyendo ballenas, focas y pingüinos.
+    Existen preocpuaciones sobre el impacto en las especies secundarias y en peligro.
+
+3.  Captura incidental: Existe un riesgo de captura incidental de especies no objetivo, como peces, calamares
+    y aves marinas, en las pesquerías de krill.
+
+4.  Cambio climático: El cambio climático está afectando la distribución y abundancia de krill en el Océano
+    Austral, lo que dificulta la gestión de las pesquerías de krill.
+
+La CCAMLR trabaja para abordar estos problemas a través del establecimiento de medidas de conservación, como
+límites de captura, cierres de áreas y programas de monitoreo, para garantizar la sostenibilidad a largo plazo
+de las pesquerías de krill y la protección del ecosistema marino antártico.
+
+## Material de trabajo
+
+::: info-box-important
+-   [Anuncio Auditoría año 3](practico/krill/anuncio3.pdf){target="_blank"}
+-   [Reporte Auditoría año 3](practico/krill/auditoria3.pdf){target="_blank"}
+-   [Anuncio suspensión](practico/krill/anuncio-suspende.pdf){target="_blank"}
+-   [Suspensión](practico/krill/suspende.pdf){target="_blank"}
+:::
+
+## Secciones relevantes
+
+### Reporte Auditoria
+
+-   Tabla de puntajes \| Pagina 4-5
+-   Revisión Principio 2 \| Paginas 21-24
+-   Condiciones \| Pagina 25
+-   Recomendaciones \| Pagina 26-28
+
+### Anuncio Auditoria
+
+-   Resumen certificación \| Pagina 2
+-   Perfil auditores y actividades \| Paginas 3-6
+
+### Anuncio Suspensión
+
+-   Motivo \| Paginas 2

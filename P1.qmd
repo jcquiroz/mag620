@@ -1,0 +1,33 @@
+---
+title: "Principio 1"
+subtitle: "Diagnóstico y condición de Jurel"
+---
+La South Pacific Regional Fisheries Management Organization (SPRFMO) ha implementado desde el año 2010 medidas de gestión para abordar la sobre-explotación de Jurel evidentes al inicio del milenio, incluyendo el establecimiento de límites de captura, la implementación de medidas de monitoreo y control, y el establecimiento de medidas de conservación y gestión para promover la gestión sostenible de la pesquería.
+
+El estado de explotación actual es excelente, resaltando la eficacia de la gestión de la SPRFMO en cuanto a sus decisiones de manejo. Sin embargo, hay numerosas oportunidades para cuestionar el estado de explotación, así como algunas de las medidas implementadas.
+
+
+## Material de trabajo
+
+::: info-box-important
+-   [Reporte Auditoría año 4](practico/jurel/reporte4.pdf){target="_blank"}
+-   [Anuncio Auditoría año 4](practico/jurel/anuncio4.pdf){target="_blank"}
+-   [Reporte Re-certificación](practico/jurel/recertificacion.pdf){target="_blank"}
+:::
+
+
+## Secciones relevantes
+### Reporte Auditoria
+- Condiciones | Pagina 11
+- Revisión Principio 1 | Paginas 19-33
+- Resumen condiciones posterior a Auditoria | Pagina 56
+- Re-puntación condición P1 | Pagina 58 - 63
+- Tabla de puntajes | Pagina 84
+
+### Anuncio Auditoria
+- Resumen certificación | Pagina 2-3
+- Perfil auditores y actividades | Paginas 5-8
+
+### Reporte Re-certificación
+- Puntaje de partida | Pagina 33
+- Puntaje P1 | Paginas 87-112
