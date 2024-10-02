@@ -1,5 +1,39 @@
 ---
 title: "Práctico MSC"
-subtitle: "Aplicando la Rúbrica"
+subtitle: "Aplicando el estándar"
 ---
-La Sou
+
+## Temática
+
+Esta sección se divide en tres componentes:
+
+1.  **Práctico 1**: Revisaremos los puntajes en la 4ta Auditoria de vigilancia de la certificación de Jurel.
+    El objetivo es generar una discusión sobre la percepción del stock de Jurel en el océano pacifico bajo el
+    estándar MSC.
+
+2.  **Práctico 2**: Exploraremos los alcances que se evaluaron durante la certificación de la pesqueria de
+    Krill para una Unidad de Certificación (UoC) conformada por empresas chilenas. El foco será las especies
+    secundarias y los eventos que llevaron a un abandono de la certificación por parte de las empresas.
+
+3.  **Práctico 3**: Se revisará los aspectos de gestión y control de pesquería del atún Aleta Amarilla,
+    administrada por la Comisión Interamericana del Atún Tropical (CIAT). El alcance de la gestión es
+    transversal para diferentes especies de atunes objetivo de la pesquería de cerco.
+
+## Evaluación Módulo
+
+Durante la tercera clase (09 Octubre 2024), cada componente será presentada y evaluada en base a las
+siguientes discusiones:
+
+-   Relevancia de los Indicadores de Comportamientos (IC) en términos de *información*, *resultado* y
+    *gestión*.
+
+-   Criterios empleados para la puntuación de los IC.
+
+-   Suficiencia de la documentación para fines de puntuación.
+
+## Material de Apoyo
+
+::: info-box-general
+- [Guia de IC](practico/guia.pdf){target="_blank"}
+- [Estandar Certificación 2.01](https://www.msc.org/docs/default-source/default-document-library/for-business/program-documents/fisheries-program-documents/msc-fisheries-standard-v2-01.pdf?sfvrsn=8ecb3272_19){target="_blank"}
+:::

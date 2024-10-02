@@ -47,6 +47,7 @@ website:
             text: Estandar ASC
       - text: "---"
       - section: "Práctico"
+        href: practico.qmd
         contents:
           - href: P1.qmd
             text: Principio 1
